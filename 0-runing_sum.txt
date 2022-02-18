@@ -1,0 +1,7 @@
+declare and read a variable(x)
+
+Set sum to 0
+then
+While(x >= 0)
+Set sum to x + sum
+Print sum
